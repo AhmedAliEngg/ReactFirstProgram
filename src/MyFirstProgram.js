@@ -1,7 +1,4 @@
 import React from "react";
-import { ReactDOM } from "react";
-
-
 const user = {
     name: 'Ahmed Ali',
     imageUrl: 'https://avatars.githubusercontent.com/u/52359086?v=4',
